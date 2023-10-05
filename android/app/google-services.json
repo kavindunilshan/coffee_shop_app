@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1079004161710",
+    "project_id": "ninja-brew-crew-110e8",
+    "storage_bucket": "ninja-brew-crew-110e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079004161710:android:076a3afa91ed5488f72f3f",
+        "android_client_info": {
+          "package_name": "com.example.brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079004161710-ub3be711eei9i7hnim0vlf0pvjmi5lkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglhQUxvjLXCIG5RAGBekgz7CMRaGCMC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079004161710-ub3be711eei9i7hnim0vlf0pvjmi5lkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079004161710:android:a4c35d2bf9b8b602f72f3f",
+        "android_client_info": {
+          "package_name": "com.example.coffee_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079004161710-ub3be711eei9i7hnim0vlf0pvjmi5lkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglhQUxvjLXCIG5RAGBekgz7CMRaGCMC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079004161710-ub3be711eei9i7hnim0vlf0pvjmi5lkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
